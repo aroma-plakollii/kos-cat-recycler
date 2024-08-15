@@ -1,0 +1,18 @@
+{
+  "companyDetails": {
+    "name": "Kos Cat Recycler",
+    "email": "",
+    "phone": "+38349713145",
+    "address": "Rr. Galip Badivuku PN",
+    "city": "Vushtrri",
+    "accountNumber": "Numri i bankes",
+    "iban": "XK05",
+    "swiftCode": "XYZABC",
+    "businessNumber": "8121089779",
+    "taxNumber": "330581543",
+    "orderNumber": "IN0"
+  },
+  "emailContent": {
+
+  }
+}
